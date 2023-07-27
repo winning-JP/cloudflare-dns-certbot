@@ -1,5 +1,7 @@
 # Cloudflare DNS SSL Automation Script
 
+### | [日本語](README.md) | English | 
+
 Here's a Bash script that automates the process of getting an SSL certificate from Let's Encrypt using Certbot and Cloudflare DNS validation.
 
 Simplify SSL certificate setup for domains managed by Cloudflare.
