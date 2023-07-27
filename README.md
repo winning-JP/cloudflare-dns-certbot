@@ -1,6 +1,10 @@
 # Cloudflare DNS SSL 自動化スクリプト
 
-これは、CertbotとCloudflare DNSバリデーションを使用してLet's EncryptからSSL証明書を取得するプロセスを自動化するBashスクリプトです。Cloudflareで管理されているドメインのSSL証明書のセットアップを簡略化します。
+### | 日本語 | [English](README.EN.md) |  
+
+これは、CertbotとCloudflare DNSバリデーションを使用してLet's EncryptからSSL証明書を取得するプロセスを自動化するBashスクリプトです。
+
+Cloudflareで管理されているドメインのSSL証明書のセットアップを簡略化します。
 
 ## 目次
 
